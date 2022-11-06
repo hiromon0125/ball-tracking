@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "svelte-adapter-firebase": "^0.14.4"
+  }
+}
